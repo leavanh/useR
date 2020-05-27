@@ -1,7 +1,7 @@
 ---
 title: "Example Slides"
-output: 
-  slidy_presentation: default
+output:
+  ioslides_presentation: default
   md_document: default
 ---
 
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Guidelines
 
-This presentation is an example on how you should submitt your slides. You can find out more about our guidelines on our website (<https://user2020muc.r-project.org/>).  
+This presentation is an example on how you should submit your slides. You can find out more about our guidelines on our website (<https://user2020muc.r-project.org/>).  
 The website also has a full list of all the guidelines, this presentation only features a selection (?).
 
 ## R Markdown
@@ -20,8 +20,6 @@ This is an R Markdown presentation. Markdown is a simple formatting syntax for a
 There also is a cheatsheet, see <https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf>.  
 
 Please submit your presentation/poster in markdown as it will enable blind people to use screen reading software or braille displays to follow the details (e.g. code) of talks.
-
-*** 
 
 ## Requirements
 
