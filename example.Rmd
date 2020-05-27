@@ -9,10 +9,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Guidelines
+## Guidelines
 
 This presentation is an example on how you should submit your slides. You can find out more about our guidelines on our website (<https://user2020muc.r-project.org/>).  
-The website also has a full list of all the guidelines, this presentation only features a selection (?).
+The website also has a full list of all the guidelines. 
+For illustration, we only show a selection of these guidelines. 
 
 ## R Markdown
 
