@@ -1,6 +1,8 @@
 ---
 title: "Example Slides"
-output: md_document
+output: 
+  slidy_presentation: default
+  md_document: default
 ---
 
 ```{r setup, include=FALSE}
